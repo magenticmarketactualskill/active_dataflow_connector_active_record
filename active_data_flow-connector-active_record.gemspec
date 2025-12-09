@@ -3,7 +3,7 @@
 require_relative "lib/active_data_flow-active_record"
 
 Gem::Specification.new do |spec|
-  spec.name = "active_dataflow-connector-active_record"
+  spec.name = "active_data_flow-connector-active_record"
   spec.version = ActiveDataFlow::ActiveRecord::VERSION
   spec.authors = ["ActiveDataFlow Team"]
   spec.email = ["team@activedataflow.dev"]
